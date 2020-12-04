@@ -21,9 +21,10 @@ TeamCity configuration is under `.teamcity/` directory.
 
 - [Advanced Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugins) - 450+ production monitoring checks including for the Jenkins API
 
-All my [major GitHub repos](https://github.com/HariSekhon) also contain fully working configs for just about every major CI system out there:
 
-Eg. [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo contains CI configs for:
+### All the CI Systems
+
+All my [major GitHub repos](https://github.com/HariSekhon) contain fully working live configs for just about every major CI system out there:
 
 ##### Local CI:
 
