@@ -7,7 +7,15 @@
       <option name="branchFilter" value="" />
     </options>
     <parameters />
-    <build-runners />
+    <build-runners>
+      <runner id="RUNNER_3" name="CI Bootstrap" type="simpleRunner">
+        <parameters>
+          <param name="script.content" value="setup/ci_bootstrap.sh" />
+          <param name="teamcity.step.mode" value="default" />
+          <param name="use.custom.script" value="true" />
+        </parameters>
+      </runner>
+    </build-runners>
     <vcs-settings>
       <vcs-entry-ref root-id="HariSekhon_HttpsGithubComHariSekhonDevOpsBashTools" />
     </vcs-settings>
