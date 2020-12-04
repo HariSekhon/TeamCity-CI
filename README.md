@@ -17,15 +17,24 @@ TeamCity configuration is under `.teamcity/` directory.
   - `gocd.sh` - one-touch [GoCD CI](https://www.gocd.org/) cluster
     - auto-loads and builds a pipeline from a config repo if available
 
-All my major GitHub repos have `Jenkinsfile`, `.concourse.yml`, `gocd_config_repo.json` so you can boot a CI and run builds in 1 command.
-
 - [Templates](https://github.com/HariSekhon/Templates) - templates for many CI systems, code and configs eg. GitHub Actions, CircleCI, Jenkinsfile, GCP Cloud Build, Makefile, Vagrantfile, Dockerfile, docker-compose.yml etc.
 
 - [Advanced Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugins) - 450+ production monitoring checks including for the Jenkins API
 
-All my [major GitHub repos](https://github.com/HariSekhon) also contain fully working configs for nearly every major managed CI system out there.
+All my [major GitHub repos](https://github.com/HariSekhon) also contain fully working configs for just about every major CI system out there:
 
 Eg. [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo contains CI configs for:
+
+Local CI:
+
+You can boot any of these CI and run the repo's build in just a short 1 word command using the scripts.
+
+- [Jenkins](https://www.jenkins.io/) - `Jenkinsfile` at the top of each repo
+- [Concourse](https://concourse-ci.org/) - `.concourse.yml` at the top of each repo
+- [GoCD](https://www.gocd.org/) - `gocd_config_repo.json` in `setup/` in each repo
+- [TeamCity](https://www.jetbrains.com/teamcity/) - this repo
+
+Hosted CI:
 
 - [AppVeyor](https://www.appveyor.com/)
 - [Azure DevOps Pipelines](https://dev.azure.com/)
