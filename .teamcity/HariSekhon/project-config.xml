@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="c1d58244-9121-4df0-8ffd-57966bb7c3ab" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
+  <name>HariSekhon</name>
+  <description>HariSekhon's GitHub Projects Builds</description>
+  <parameters />
+  <project-extensions>
+    <extension id="PROJECT_EXT_2" type="OAuthProvider">
+      <parameters>
+        <param name="clientId" value="6b7d80b13ca4d524a9ed" />
+        <param name="defaultTokenScope" value="public_repo,repo,repo:status,write:repo_hook" />
+        <param name="displayName" value="GitHub.com" />
+        <param name="gitHubUrl" value="https://github.com/" />
+        <param name="providerType" value="GitHub" />
+        <param name="secure:clientSecret" value="credentialsJSON:6472ff08-c9dd-4c77-88e0-fc113a69be95" />
+      </parameters>
+    </extension>
+    <extension id="PROJECT_EXT_3" type="versionedSettings">
+      <parameters>
+        <param name="buildSettings" value="PREFER_CURRENT" />
+        <param name="credentialsStorageType" value="credentialsJSON" />
+        <param name="enabled" value="true" />
+        <param name="rootId" value="HariSekhon_TeamCityGitHubConfigXml" />
+        <param name="showChanges" value="true" />
+      </parameters>
+    </extension>
+  </project-extensions>
+  <cleanup />
+</project>
+
