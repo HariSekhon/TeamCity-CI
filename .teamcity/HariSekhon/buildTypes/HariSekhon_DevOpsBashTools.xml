@@ -8,7 +8,6 @@
     </options>
     <parameters>
       <param name="env.DEBUG" value="1" />
-      <param name="env.DEBUG_HOMEBREW" value="1" />
     </parameters>
     <build-runners />
     <vcs-settings>
