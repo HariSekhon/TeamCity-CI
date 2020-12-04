@@ -23,6 +23,18 @@
         <param name="showChanges" value="true" />
       </parameters>
     </extension>
+    <extension id="PROJECT_EXT_4" type="IssueTracker">
+      <parameters>
+        <param name="authType" value="anonymous" />
+        <param name="name" value="HariSekhon/DevOps-Bash-tools" />
+        <param name="pattern" value="#(\d+)" />
+        <param name="repository" value="https://github.com/HariSekhon/DevOps-Bash-tools" />
+        <param name="secure:accessToken" value="" />
+        <param name="secure:password" value="" />
+        <param name="type" value="GithubIssues" />
+        <param name="username" value="" />
+      </parameters>
+    </extension>
   </project-extensions>
   <cleanup />
 </project>
