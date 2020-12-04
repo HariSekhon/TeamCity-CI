@@ -17,7 +17,7 @@ TeamCity configuration is under `.teamcity/` directory.
   - `gocd.sh` - one-touch [GoCD CI](https://www.gocd.org/) cluster
     - auto-loads and builds a pipeline from a config repo if available
 
-- [Templates](https://github.com/HariSekhon/Templates) - templates for many CI systems, code and configs eg. GitHub Actions, CircleCI, Jenkinsfile, GCP Cloud Build, Makefile, Vagrantfile, Dockerfile, docker-compose.yml etc.
+- [Templates](https://github.com/HariSekhon/Templates) - templates for many CI systems, code and configs eg. Jenkinsfile, GitHub Actions, Travis CI, CircleCI, GCP Cloud Build, Makefile, Vagrantfile, Dockerfile, docker-compose.yml etc.
 
 - [Advanced Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugins) - 450+ production monitoring checks including for the Jenkins API
 
