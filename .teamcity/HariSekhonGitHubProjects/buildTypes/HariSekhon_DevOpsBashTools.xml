@@ -7,7 +7,7 @@
       <option name="branchFilter" value="" />
     </options>
     <parameters />
-    <build-runners>
+    <build-runners order="RUNNER_3, RUNNER_1, RUNNER_2">
       <runner id="RUNNER_3" name="CI Bootstrap" type="simpleRunner">
         <parameters>
           <param name="script.content" value="setup/ci_bootstrap.sh" />
