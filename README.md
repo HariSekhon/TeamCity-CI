@@ -25,7 +25,7 @@ All my [major GitHub repos](https://github.com/HariSekhon) also contain fully wo
 
 Eg. [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo contains CI configs for:
 
-Local CI:
+##### Local CI:
 
 You can boot any of these CI and run the repo's build in just a short 1 word command using the scripts.
 
@@ -34,7 +34,7 @@ You can boot any of these CI and run the repo's build in just a short 1 word com
 - [GoCD](https://www.gocd.org/) - `gocd_config_repo.json` in `setup/` in each repo
 - [TeamCity](https://www.jetbrains.com/teamcity/) - this repo
 
-Hosted CI:
+##### Hosted CI:
 
 - [AppVeyor](https://www.appveyor.com/)
 - [Azure DevOps Pipelines](https://dev.azure.com/)
