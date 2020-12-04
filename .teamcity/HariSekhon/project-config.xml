@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="c1d58244-9121-4df0-8ffd-57966bb7c3ab" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
-  <name>Hari Sekhon</name>
+  <name>Hari Sekhon's GitHub Projects</name>
   <description>HariSekhon's GitHub Projects Builds</description>
   <parameters />
   <project-extensions>
