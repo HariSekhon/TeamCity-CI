@@ -25,7 +25,7 @@ All my major GitHub repos have `Jenkinsfile`, `.concourse.yml`, `gocd_config_rep
 
 All my major GitHub repos also contain fully working configs for nearly every major mmanaged CI system out there.
 
-See the [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo to find to configs for:
+Eg. [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo contains CI configs for:
 
 - [AppVeyor](https://www.appveyor.com/)
 - [Azure DevOps Pipelines](https://dev.azure.com/)
