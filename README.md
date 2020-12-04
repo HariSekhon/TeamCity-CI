@@ -23,7 +23,9 @@ All my major GitHub repos have `Jenkinsfile`, `.concourse.yml`, `gocd_config_rep
 
 - [Advanced Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugins) - 450+ production monitoring checks including for the Jenkins API
 
-All my major GitHub repos also contain fully working managed CI configs for:
+All my major GitHub repos also contain fully working configs for nearly every major mmanaged CI system out there.
+
+See the [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo to find to configs for:
 
 - [AppVeyor](https://www.appveyor.com/)
 - [Azure DevOps Pipelines](https://dev.azure.com/)
