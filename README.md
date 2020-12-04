@@ -3,7 +3,9 @@ TeamCity CI Config
 
 Synchronized config from my automated dockerized [TeamCity](https://www.jetbrains.com/teamcity/) cluster.
 
-See Also:
+TeamCity configuration is under `.teamcity/` directory.
+
+#### See Also:
 
 - [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools):
   - `teamcity.sh` - create your own [TeamCity](https://www.jetbrains.com/teamcity/) cluster in 1 command
