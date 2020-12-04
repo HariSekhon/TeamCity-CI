@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="e5abcae2-bee5-41c8-9e43-33ccfd28178c" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
   <name>DevOps-Bash-tools</name>
-  <description />
+  <description>DevOps Bash Scripts - AWS, GCP, Kubernetes, Kafka, Docker, APIs, Hadoop, SQL, PostgreSQL, MySQL, Hive, Impala, Travis CI, Jenkins, Concourse, GitHub, GitLab, BitBucket, Azure DevOps, Spotify, MP3, LDAP, Code/Build Linting, package management for Linux, Mac</description>
   <settings ref="HariSekhon_Make">
     <options>
       <option name="branchFilter" value="" />
