@@ -28,7 +28,7 @@ All my [major GitHub repos](https://github.com/HariSekhon) contain fully working
 
 ##### Local CI:
 
-You can boot any of these CI and run the repo's build in just a short 1 word command using the scripts.
+You can boot any of these CI and run the repo's build with a single short one-word command using the scripts above.
 
 - [Jenkins](https://www.jenkins.io/) - `Jenkinsfile` at the top of each repo
 - [Concourse](https://concourse-ci.org/) - `.concourse.yml` at the top of each repo
