@@ -21,8 +21,7 @@
       <runner id="RUNNER_1" name="Make" type="simpleRunner">
         <parameters>
           <param name="plugin.docker.imagePlatform" value="linux" />
-          <param name="script.content"><![CDATA[setup/ci_bootstrap.sh
-make]]></param>
+          <param name="script.content" value="make" />
           <param name="teamcity.step.mode" value="default" />
           <param name="use.custom.script" value="true" />
         </parameters>
