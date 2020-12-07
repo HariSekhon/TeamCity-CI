@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="41e229ba-c593-4eea-b5c2-bfb4edeab3d4" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
   <name>lib-java</name>
-  <description>Perl Utility Library for my other repos</description>
+  <description>Java Utility library for my other repos</description>
   <settings ref="HariSekhon_Make">
     <options>
       <option name="branchFilter" value="" />
