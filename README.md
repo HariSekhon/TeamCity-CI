@@ -3,7 +3,11 @@ TeamCity CI Config
 
 Synchronized config from my automated dockerized [TeamCity](https://www.jetbrains.com/teamcity/) cluster.
 
-TeamCity configuration is under `.teamcity/` directory.
+TeamCity configuration:
+
+- `.teamcity/` - XML format live sync'd
+- `exports` - API JSON exports using scripts in [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo
+- `kotlin` - Kotlin exports from UI
 
 #### See Also:
 
