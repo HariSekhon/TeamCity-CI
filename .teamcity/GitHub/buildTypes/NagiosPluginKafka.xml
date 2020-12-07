@@ -9,7 +9,7 @@
     <parameters />
     <build-runners order="RUNNER_0, RUNNER_1, RUNNER_2" />
     <vcs-settings>
-      <vcs-entry-ref root-id="NagiosPlugins" />
+      <vcs-entry-ref root-id="GitHub_HttpsGithubComHariSekhonNagiosPluginKafka" />
     </vcs-settings>
     <requirements />
     <build-triggers />
