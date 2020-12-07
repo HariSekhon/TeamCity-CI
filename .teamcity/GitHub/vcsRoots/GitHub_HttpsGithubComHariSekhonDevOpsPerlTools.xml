@@ -7,7 +7,7 @@
   <param name="branch" value="refs/heads/master" />
   <param name="ignoreKnownHosts" value="true" />
   <param name="submoduleCheckout" value="CHECKOUT" />
-  <param name="url" value="https://github.com/HariSekhon/DevOps-Bash-tools" />
+  <param name="url" value="https://github.com/HariSekhon/DevOps-Perl-tools" />
   <param name="useAlternates" value="true" />
   <param name="usernameStyle" value="USERID" />
 </vcs-root>
