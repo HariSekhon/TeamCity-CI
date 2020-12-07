@@ -9,6 +9,7 @@ TeamCity configuration is under `.teamcity/` directory.
 
 - [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools):
   - `teamcity.sh` - create your own [TeamCity](https://www.jetbrains.com/teamcity/) cluster in 1 command
+    - auto-loads VCS root to this repo which then loads a dozen more buildtypes and VCS roots
   - `teamcity_api.sh` - query the [TeamCity API](https://www.jetbrains.com/help/teamcity/rest-api.html), handling authentication and other details
   - `jenkins.sh` - one-touch [Jenkins CI](https://jenkins.io/)
      - auto-loads and builds a pipeline from `Jenkinsfile` if available
