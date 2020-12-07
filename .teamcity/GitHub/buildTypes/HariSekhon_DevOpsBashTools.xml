@@ -7,7 +7,7 @@
       <option name="branchFilter" value="" />
     </options>
     <parameters />
-    <build-runners order="RUNNER_4, RUNNER_1, RUNNER_2" />
+    <build-runners order="RUNNER_0, RUNNER_1, RUNNER_2" />
     <vcs-settings>
       <vcs-entry-ref root-id="DevOpsBashTools" />
     </vcs-settings>
@@ -16,4 +16,3 @@
     <cleanup />
   </settings>
 </build-type>
-

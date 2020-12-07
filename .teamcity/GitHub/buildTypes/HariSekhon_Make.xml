@@ -11,7 +11,7 @@
     </options>
     <parameters />
     <build-runners>
-      <runner id="RUNNER_4" name="CI Bootstrap" type="simpleRunner">
+      <runner id="RUNNER_0" name="CI Bootstrap" type="simpleRunner">
         <parameters>
           <param name="script.content" value="setup/ci_bootstrap.sh" />
           <param name="teamcity.step.mode" value="default" />
@@ -48,4 +48,3 @@
     <cleanup />
   </settings>
 </template>
-
