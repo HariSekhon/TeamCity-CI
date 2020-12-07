@@ -7,7 +7,7 @@
       <option name="branchFilter" value="" />
     </options>
     <parameters />
-    <build-runners order="RUNNER_3, RUNNER_1, RUNNER_2">
+    <build-runners order="RUNNER_4, RUNNER_1, RUNNER_2">
       <runner id="RUNNER_1" name="Make" type="simpleRunner">
         <parameters>
           <param name="plugin.docker.imagePlatform" value="linux" />

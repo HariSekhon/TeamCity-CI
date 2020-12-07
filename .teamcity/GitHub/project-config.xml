@@ -31,7 +31,7 @@
         <param name="buildSettings" value="ALWAYS_USE_CURRENT" />
         <param name="credentialsStorageType" value="credentialsJSON" />
         <param name="enabled" value="true" />
-        <param name="rootId" value="HariSekhon_TeamCityGitHubConfigXml" />
+        <param name="rootId" value="TeamCity" />
         <param name="showChanges" value="true" />
       </parameters>
     </extension>
