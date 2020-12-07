@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="9328cdb2-0efa-403d-a02c-f4a6d19ab4e0" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
   <name>DevOps Python tools</name>
-  <description>25+ DevOps CLI Tools - Kubernetes &amp; Code templates, Log Anonymizer, SQL ReCaser (MySQL, PostgreSQL, AWS Redshift, Snowflake, Apache Drill, Hive, Impala, Cassandra CQL, Microsoft SQL Server, Oracle, Couchbase N1QL, Dockerfiles), Hadoop HDFS &amp; Hive tools, Solr/SolrCloud CLI, Nginx stats &amp; HTTP(S) URL watchers for load-balanced web farms, Linux tools etc.</description>
+  <description>80+ DevOps &amp; Data CLI Tools - AWS, GCP, GCF Python Cloud Function, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters &amp; Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, AWS CloudFormation, Elasticsearch, Solr etc.</description>
   <settings ref="HariSekhon_Make">
     <options>
       <option name="branchFilter" value="" />
