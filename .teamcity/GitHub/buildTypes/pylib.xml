@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="c5c58ca8-dc4c-42d5-ad18-6e0e0e06f2c5" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
   <name>pylib</name>
-  <description>Perl Utility Library for my other repos</description>
+  <description>Python / Jython Utility Library for my other repos</description>
   <settings ref="HariSekhon_Make">
     <options>
       <option name="branchFilter" value="" />
