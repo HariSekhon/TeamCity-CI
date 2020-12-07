@@ -47,7 +47,7 @@ You can boot any of these CI and run the repo's build with a single short one-wo
 - [CodeShip](https://codeship.com/)
 - [Codefresh](https://codefresh.io/)
 - [Drone.io](https://drone.io/)
-- [GitHub Actions](https://github.com/features/actions)
+- [GitHub Actions Workflows](https://github.com/features/actions)
 - [GitLab CI](https://docs.gitlab.com/ee/ci/)
 - [Semaphore CI](https://semaphoreci.com/)
 - [Shippable](https://www.shippable.com/)
