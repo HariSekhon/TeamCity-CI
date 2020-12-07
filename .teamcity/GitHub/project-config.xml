@@ -15,18 +15,6 @@
         <param name="secure:clientSecret" value="credentialsJSON:6472ff08-c9dd-4c77-88e0-fc113a69be95" />
       </parameters>
     </extension>
-    <extension id="PROJECT_EXT_4" type="IssueTracker">
-      <parameters>
-        <param name="authType" value="anonymous" />
-        <param name="name" value="HariSekhon/DevOps-Bash-tools" />
-        <param name="pattern" value="#(\d+)" />
-        <param name="repository" value="https://github.com/HariSekhon/DevOps-Bash-tools" />
-        <param name="secure:accessToken" value="" />
-        <param name="secure:password" value="" />
-        <param name="type" value="GithubIssues" />
-        <param name="username" value="" />
-      </parameters>
-    </extension>
     <extension id="PROJECT_EXT_5" type="versionedSettings">
       <parameters>
         <param name="buildSettings" value="ALWAYS_USE_CURRENT" />
