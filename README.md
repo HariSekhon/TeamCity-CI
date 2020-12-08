@@ -14,6 +14,7 @@ TeamCity CI Config
 
 Synchronized config from my automated dockerized [TeamCity](https://www.jetbrains.com/teamcity/) cluster.
 
+
 ### TeamCity configuration
 
 - `.teamcity/` - XML format live sync'd
@@ -21,7 +22,8 @@ Synchronized config from my automated dockerized [TeamCity](https://www.jetbrain
 - `.teamcity.vcs.json` - VCS connection to this repo
 - `kotlin/` - Kotlin exports from UI
 
-### See Also:
+
+### Automation:
 
 - [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools):
   - `teamcity.sh` - create your own [TeamCity](https://www.jetbrains.com/teamcity/) cluster in 1 command
@@ -33,6 +35,9 @@ Synchronized config from my automated dockerized [TeamCity](https://www.jetbrain
     - auto-loads and builds a pipeline from `.concourse.yml` if available
   - `gocd.sh` - one-touch [GoCD CI](https://www.gocd.org/) cluster
     - auto-loads and builds a pipeline from a config repo if available
+
+
+### See Also
 
 - [Templates](https://github.com/HariSekhon/Templates) - templates for many CI systems, code and configs eg. Jenkinsfile, GitHub Actions, Travis CI, CircleCI, GCP Cloud Build, Makefile, Vagrantfile, Dockerfile, docker-compose.yml etc.
 
