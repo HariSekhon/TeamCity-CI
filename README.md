@@ -14,14 +14,14 @@ TeamCity CI Config
 
 Synchronized config from my automated dockerized [TeamCity](https://www.jetbrains.com/teamcity/) cluster.
 
-TeamCity configuration:
+### TeamCity configuration
 
 - `.teamcity/` - XML format live sync'd
 - `exports/` - JSON exports using API scripts in [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo
 - `.teamcity.vcs.json` - VCS connection to this repo
 - `kotlin/` - Kotlin exports from UI
 
-#### See Also:
+### See Also:
 
 - [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools):
   - `teamcity.sh` - create your own [TeamCity](https://www.jetbrains.com/teamcity/) cluster in 1 command
