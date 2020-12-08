@@ -53,3 +53,7 @@ build:
 	cd ../vcsRoots && \
 		$(BASH_TOOLS)/teamcity_vcs_roots_download.sh && \
 	rm -f TeamCity.json
+
+.PHONY: wc
+wc:
+	find  .teamcity/GitHub/ -type f | xargs wc -l
