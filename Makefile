@@ -48,7 +48,11 @@ build:
 	# that figures out the TeamCity API token used in the API scripts below
 	. $(BASH_TOOLS)/.bash.d/teamcity.sh && \
 	teamcity_local && \
-	cd exports/buildTypes && \
+	cd exports/GitHub/ && \
+		$(BASH_TOOLS)/teamcity_projects_download.sh && \
+		mv -v GitHub.json project-config.json && \
+		rm -f _Root.json && \
+	cd buildTypes && \
 		$(BASH_TOOLS)/teamcity_buildtypes_download.sh && \
 	cd ../vcsRoots && \
 		$(BASH_TOOLS)/teamcity_vcs_roots_download.sh && \
