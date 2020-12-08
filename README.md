@@ -17,6 +17,7 @@ Synchronized config from my automated dockerized [TeamCity](https://www.jetbrain
 TeamCity configuration:
 
 - `.teamcity/` - XML format live sync'd
+- `TeamCity.vcs.json` - VCS connection to this repo
 - `exports` - JSON exports using API scripts in [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo
 - `kotlin` - Kotlin exports from UI
 
