@@ -29,9 +29,9 @@ Synchronized config from my automated dockerized [TeamCity](https://www.jetbrain
   - `teamcity.sh` - create your own [TeamCity](https://www.jetbrains.com/teamcity/) cluster in 1 command
     - auto-loads VCS root to this repo which then loads a dozen more buildtypes and VCS roots
   - `teamcity_api.sh` - query the [TeamCity API](https://www.jetbrains.com/help/teamcity/rest-api.html), handling authentication and other details
-  - `jenkins.sh` - one-touch [Jenkins CI](https://jenkins.io/)
+  - `jenkins.sh` - one-touch [Jenkins CI](https://jenkins.io/) instance
      - auto-loads and builds a pipeline from `Jenkinsfile` if available
-  - `concourse.sh` - one-touch [Concourse CI](https://concourse-ci.org/)
+  - `concourse.sh` - one-touch [Concourse CI](https://concourse-ci.org/) instance
     - auto-loads and builds a pipeline from `.concourse.yml` if available
   - `gocd.sh` - one-touch [GoCD CI](https://www.gocd.org/) cluster
     - auto-loads and builds a pipeline from a config repo if available
