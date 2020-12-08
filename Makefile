@@ -37,9 +37,17 @@ $(error BASH_TOOLS is not set and was not found adjacent to this repo)
 endif
 
 .PHONY: build
-build:
+build: exports
+	@:
+
+.PHONY: exports
+exports: export
+	@:
+
+.PHONY: export
+export:
 	@echo
-	@echo "Running Exports of JSON format configs uto exports/ directory sing TeamCity API scripts from DevOps Bash tools repo"
+	@echo "Running Exports of JSON format configs to exports/ directory using TeamCity API scripts from DevOps Bash tools repo"
 	@#@echo
 	@# set in heading variable and glob test for this $HOME/github/bash-tools path
 	@#@echo "DevOps Bash tools repo is assumed to be available at \$$HOME/github/bash-tools"
