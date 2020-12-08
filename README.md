@@ -1,9 +1,24 @@
 TeamCity CI Config
 ==================
 
+[![TeamCity](https://img.shields.io/badge/TeamCity-Configs-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://bitbucket.org/harisekhon/devops-bash-tools/src/master/STATUS.md)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/TeamCity-CI)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/TeamCity-CI)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/TeamCity-CI)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/TeamCity-CI)
+
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)]()
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)]()
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/TeamCity-CI?logo=github)](https://github.com/HariSekhon/TeamCity-CI/commits/master)
+
 Synchronized config from my automated dockerized [TeamCity](https://www.jetbrains.com/teamcity/) cluster.
 
-TeamCity configuration is under `.teamcity/` directory.
+TeamCity configuration:
+
+- `.teamcity/` - XML format live sync'd
+- `exports` - JSON exports using API scripts in [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo
+- `kotlin` - Kotlin exports from UI
 
 #### See Also:
 
