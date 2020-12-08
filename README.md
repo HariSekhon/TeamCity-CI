@@ -12,7 +12,7 @@ TeamCity CI Config
 [![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)]()
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/TeamCity-CI?logo=github)](https://github.com/HariSekhon/TeamCity-CI/commits/master)
 
-TeamCity configurations, synchronized from automated [TeamCity](https://www.jetbrains.com/teamcity/) cluster.
+[TeamCity](https://www.jetbrains.com/teamcity/) CI configurations, synchronized from my automated TeamCity cluster.
 
 
 ### TeamCity configuration
