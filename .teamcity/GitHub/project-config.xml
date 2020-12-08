@@ -5,23 +5,13 @@
   <default-template ref="HariSekhon_Make" />
   <parameters />
   <project-extensions>
-    <extension id="PROJECT_EXT_2" type="OAuthProvider">
-      <parameters>
-        <param name="clientId" value="6b7d80b13ca4d524a9ed" />
-        <param name="defaultTokenScope" value="public_repo,repo,repo:status,write:repo_hook" />
-        <param name="displayName" value="GitHub.com" />
-        <param name="gitHubUrl" value="https://github.com/" />
-        <param name="providerType" value="GitHub" />
-        <param name="secure:clientSecret" value="credentialsJSON:6472ff08-c9dd-4c77-88e0-fc113a69be95" />
-      </parameters>
-    </extension>
-    <extension id="PROJECT_EXT_5" type="versionedSettings">
+    <extension id="PROJECT_EXT_4" type="versionedSettings">
       <parameters>
         <param name="buildSettings" value="PREFER_CURRENT" />
         <param name="credentialsStorageType" value="credentialsJSON" />
         <param name="enabled" value="true" />
         <param name="rootId" value="TeamCity" />
-        <param name="showChanges" value="true" />
+        <param name="showChanges" value="false" />
       </parameters>
     </extension>
   </project-extensions>
