@@ -44,9 +44,9 @@ TeamCity CI Config
 - [Advanced Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugins) - 450+ production monitoring checks including for the Jenkins API
 
 
-### All the CI Systems
+### CI Systems
 
-All my [major GitHub repos](https://github.com/HariSekhon) contain fully working live configs for just about every major CI system out there:
+All my [major GitHub repos](https://github.com/HariSekhon) contain fully working live configs for most major CI system out there:
 
 ##### Local CI:
 
