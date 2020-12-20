@@ -60,6 +60,7 @@ You can boot any of these CI and run the repo's build with a single short one-wo
 ##### Hosted CI:
 
 - [AppVeyor](https://www.appveyor.com/)
+- [AWS CodeBuild](https://aws.amazon.com/codebuild/)
 - [Azure DevOps Pipelines](https://dev.azure.com/)
 - [BitBucket Pipelines](https://bitbucket.org/product/features/pipelines)
 - [Buddy](https://buddy.works/)
@@ -69,6 +70,7 @@ You can boot any of these CI and run the repo's build with a single short one-wo
 - [CodeShip](https://codeship.com/)
 - [Codefresh](https://codefresh.io/)
 - [Drone.io](https://drone.io/)
+- [GCP Cloud Build](https://cloud.google.com/cloud-build)
 - [GitHub Actions Workflows](https://github.com/features/actions)
 - [GitLab CI](https://docs.gitlab.com/ee/ci/)
 - [Semaphore CI](https://semaphoreci.com/)
