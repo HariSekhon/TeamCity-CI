@@ -39,7 +39,7 @@ TeamCity CI Config
 
 ### See Also
 
-- [Templates](https://github.com/HariSekhon/Templates) - templates for many CI systems, code and configs eg. Jenkinsfile, GitHub Actions, Travis CI, CircleCI, GCP Cloud Build, Makefile, Vagrantfile, Dockerfile, docker-compose.yml etc.
+- [Templates](https://github.com/HariSekhon/Templates) - templates for many CI systems, code and configs eg. Jenkinsfile, GitHub Actions, Travis CI, CircleCI, AWS CodeBuild, GCP Cloud Build, Makefile, Vagrantfile, Dockerfile, docker-compose.yml etc.
 
 - [Advanced Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugins) - 450+ production monitoring checks including for the Jenkins API
 
