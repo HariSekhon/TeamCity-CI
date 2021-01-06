@@ -22,7 +22,7 @@
     "href": "/app/rest/buildTypes/id:HariSekhon_Make"
   },
   "buildTypes": {
-    "count": 11,
+    "count": 12,
     "buildType": [
       {
         "id": "DevOpsBashTools",
@@ -32,6 +32,15 @@
         "projectId": "GitHub",
         "href": "/app/rest/buildTypes/id:DevOpsBashTools",
         "webUrl": "http://localhost:8111/viewType.html?buildTypeId=DevOpsBashTools"
+      },
+      {
+        "id": "DevOpsGolangTools",
+        "name": "DevOps Golang tools",
+        "description": "550+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Kafka, Docker, APIs, Hadoop, SQL, PostgreSQL, MySQL, Hive, Impala, Travis CI, Jenkins, Concourse, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ...",
+        "projectName": "Hari Sekhon GitHub Projects",
+        "projectId": "GitHub",
+        "href": "/app/rest/buildTypes/id:DevOpsGolangTools",
+        "webUrl": "http://localhost:8111/viewType.html?buildTypeId=DevOpsGolangTools"
       },
       {
         "id": "DevOpsPerlTools",
@@ -54,7 +63,7 @@
       {
         "id": "Dockerfiles",
         "name": "Dockerfiles",
-        "description": "50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, and DevOps tools built various distros: Alpine, CentOS, Debian, Fedora, Ubuntu",
+        "description": "50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, TeamCity and DevOps tools built various distros: Alpine, CentOS, Debian, Fedora, Ubuntu",
         "projectName": "Hari Sekhon GitHub Projects",
         "projectId": "GitHub",
         "href": "/app/rest/buildTypes/id:Dockerfiles",
@@ -145,7 +154,7 @@
     "property": []
   },
   "vcsRoots": {
-    "count": 11,
+    "count": 12,
     "href": "/app/rest/vcs-roots?locator=project:(id:GitHub)"
   },
   "projectFeatures": {
