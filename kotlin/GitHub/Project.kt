@@ -16,6 +16,7 @@ object Project : Project({
     defaultTemplate = AbsoluteId("HariSekhon_Make")
 
     vcsRoot(DevOpsBashTools_1)
+    vcsRoot(DevOpsGolangTools_1)
     vcsRoot(NagiosPluginKafka_1)
     vcsRoot(Pylib)
     vcsRoot(lib_1)
@@ -28,6 +29,7 @@ object Project : Project({
     vcsRoot(Dockerfiles_1)
 
     buildType(DevOpsBashTools)
+    buildType(DevOpsGolangTools)
     buildType(NagiosPluginKafka)
     buildType(libjava)
     buildType(lib)
