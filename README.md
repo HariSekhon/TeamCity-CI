@@ -31,11 +31,11 @@ TeamCity CI Config
   - `teamcity.sh` - launches a [TeamCity](https://www.jetbrains.com/teamcity/) cluster in Docker
     - auto-loads VCS root to this repo which then loads a dozen more buildTypes and VCS roots
   - `teamcity_api.sh` - query the [TeamCity API](https://www.jetbrains.com/help/teamcity/rest-api.html), handling authentication and other details
-  - `jenkins.sh` - one-touch [Jenkins CI](https://jenkins.io/) instance
+  - `jenkins.sh` - one-touch [Jenkins CI](https://jenkins.io/) instance in Docker
      - auto-loads and builds a pipeline from `Jenkinsfile` if available
-  - `concourse.sh` - one-touch [Concourse CI](https://concourse-ci.org/) instance
+  - `concourse.sh` - one-touch [Concourse CI](https://concourse-ci.org/) instance in Docker
     - auto-loads and builds a pipeline from `.concourse.yml` if available
-  - `gocd.sh` - one-touch [GoCD CI](https://www.gocd.org/) cluster
+  - `gocd.sh` - one-touch [GoCD CI](https://www.gocd.org/) cluster in Docker
     - auto-loads and builds a pipeline from a config repo if available
 
 
