@@ -25,6 +25,8 @@ TeamCity CI Config
 
 ### Automation:
 
+- [Kubernetes templates](https://github.com/HariSekhon/Kubernetes-templates) - extensive TeamCity Kubernetes yamls, plus advanced templates for most major kubernetes objects
+
 - [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools):
   - `teamcity.sh` - create your own [TeamCity](https://www.jetbrains.com/teamcity/) cluster in 1 command
     - auto-loads VCS root to this repo which then loads a dozen more buildTypes and VCS roots
