@@ -29,7 +29,7 @@ TeamCity CI Config
 
 - [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools):
   - `teamcity.sh` - launches a [TeamCity](https://www.jetbrains.com/teamcity/) cluster in Docker
-    - auto-loads VCS root to this repo which then loads a dozen more buildTypes and VCS roots
+    - auto-loads VCS root config with all the builds if available
   - `teamcity_api.sh` - query the [TeamCity API](https://www.jetbrains.com/help/teamcity/rest-api.html), handling authentication and other details
   - `jenkins.sh` - one-touch [Jenkins CI](https://jenkins.io/) instance in Docker
      - auto-loads and builds a pipeline from `Jenkinsfile` if available
