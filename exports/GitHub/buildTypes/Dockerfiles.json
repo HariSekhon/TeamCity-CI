@@ -1,7 +1,7 @@
 {
   "id": "Dockerfiles",
   "name": "Dockerfiles",
-  "description": "50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, TeamCity and DevOps tools built various distros: Alpine, CentOS, Debian, Fedora, Ubuntu",
+  "description": "50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak, TeamCity and DevOps tools built on the major Linux distros: Alpine, CentOS, Debian, Fedora, Ubuntu",
   "projectName": "Hari Sekhon GitHub Projects",
   "projectId": "GitHub",
   "href": "/app/rest/buildTypes/id:Dockerfiles",
