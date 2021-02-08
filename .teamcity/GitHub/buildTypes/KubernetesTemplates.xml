@@ -21,7 +21,7 @@
       </runner>
     </build-runners>
     <vcs-settings>
-      <vcs-entry-ref root-id="GitHub_HttpsGithubComHariSekhonKubernetesTemplates" />
+      <vcs-entry-ref root-id="KubernetesTemplates" />
     </vcs-settings>
     <requirements />
     <build-triggers />
