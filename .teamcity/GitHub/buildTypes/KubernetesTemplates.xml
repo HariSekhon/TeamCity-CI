@@ -9,7 +9,7 @@
     <parameters />
     <build-runners order="RUNNER_0, RUNNER_1, RUNNER_2" />
     <vcs-settings>
-      <vcs-entry-ref root-id="GitHub_HttpsGithubComHariSekhonTemplates" />
+      <vcs-entry-ref root-id="GitHub_HttpsGithubComHariSekhonKubernetesTemplates" />
     </vcs-settings>
     <requirements />
     <build-triggers />
