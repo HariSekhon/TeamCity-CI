@@ -10,7 +10,16 @@
       <setting-ref ref="RUNNER_0" />
     </disabled-settings>
     <parameters />
-    <build-runners order="RUNNER_0, RUNNER_1, RUNNER_2" />
+    <build-runners order="RUNNER_0, RUNNER_1, RUNNER_2">
+      <runner id="RUNNER_1" name="Make" type="simpleRunner">
+        <parameters>
+          <param name="plugin.docker.imagePlatform" value="linux" />
+          <param name="script.content" value="make bash-tools" />
+          <param name="teamcity.step.mode" value="default" />
+          <param name="use.custom.script" value="true" />
+        </parameters>
+      </runner>
+    </build-runners>
     <vcs-settings>
       <vcs-entry-ref root-id="GitHub_HttpsGithubComHariSekhonTemplates" />
     </vcs-settings>
