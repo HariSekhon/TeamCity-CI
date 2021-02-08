@@ -6,6 +6,9 @@
     <options>
       <option name="branchFilter" value="" />
     </options>
+    <disabled-settings>
+      <setting-ref ref="RUNNER_0" />
+    </disabled-settings>
     <parameters />
     <build-runners order="RUNNER_0, RUNNER_1, RUNNER_2" />
     <vcs-settings>
