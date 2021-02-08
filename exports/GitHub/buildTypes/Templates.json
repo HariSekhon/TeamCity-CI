@@ -32,11 +32,11 @@
     "count": 1,
     "vcs-root-entry": [
       {
-        "id": "GitHub_HttpsGithubComHariSekhonTemplates",
+        "id": "Templates",
         "vcs-root": {
-          "id": "GitHub_HttpsGithubComHariSekhonTemplates",
+          "id": "Templates",
           "name": "https://github.com/HariSekhon/Templates",
-          "href": "/app/rest/vcs-roots/id:GitHub_HttpsGithubComHariSekhonTemplates"
+          "href": "/app/rest/vcs-roots/id:Templates"
         },
         "checkout-rules": ""
       }
