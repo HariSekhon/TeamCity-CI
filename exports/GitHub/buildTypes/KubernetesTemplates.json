@@ -32,11 +32,11 @@
     "count": 1,
     "vcs-root-entry": [
       {
-        "id": "GitHub_HttpsGithubComHariSekhonKubernetesTemplates",
+        "id": "KubernetesTemplates",
         "vcs-root": {
-          "id": "GitHub_HttpsGithubComHariSekhonKubernetesTemplates",
+          "id": "KubernetesTemplates",
           "name": "https://github.com/HariSekhon/Kubernetes-Templates",
-          "href": "/app/rest/vcs-roots/id:GitHub_HttpsGithubComHariSekhonKubernetesTemplates"
+          "href": "/app/rest/vcs-roots/id:KubernetesTemplates"
         },
         "checkout-rules": ""
       }
