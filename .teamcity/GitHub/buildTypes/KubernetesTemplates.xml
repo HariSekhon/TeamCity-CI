@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="95c6d4b7-83fd-46a2-a80b-42b9b1ed2eeb" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
+  <name>Kubernetes-templates</name>
+  <description />
+  <settings ref="HariSekhon_Make">
+    <options>
+      <option name="branchFilter" value="" />
+    </options>
+    <parameters />
+    <build-runners order="RUNNER_0, RUNNER_1, RUNNER_2" />
+    <vcs-settings>
+      <vcs-entry-ref root-id="GitHub_HttpsGithubComHariSekhonTemplates" />
+    </vcs-settings>
+    <requirements />
+    <build-triggers />
+    <cleanup />
+  </settings>
+</build-type>
+
