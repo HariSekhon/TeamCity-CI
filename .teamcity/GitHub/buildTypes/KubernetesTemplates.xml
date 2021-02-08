@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="95c6d4b7-83fd-46a2-a80b-42b9b1ed2eeb" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
+  <name>Kubernetes-templates</name>
+  <description>Kubernetes YAML templates - Best Practices, Tips &amp; Tricks are baked right into the templates for production deployments - plus patches, Kustomize, Cert Manager with ACME Let's Encrypt for free ingress auto SSL certificates</description>
+  <settings ref="HariSekhon_Make">
+    <options>
+      <option name="branchFilter" value="" />
+    </options>
+    <disabled-settings>
+      <setting-ref ref="RUNNER_0" />
+    </disabled-settings>
+    <parameters />
+    <build-runners order="RUNNER_0, RUNNER_1, RUNNER_2">
+      <runner id="RUNNER_1" name="Make" type="simpleRunner">
+        <parameters>
+          <param name="plugin.docker.imagePlatform" value="linux" />
+          <param name="script.content" value="make bash-tools" />
+          <param name="teamcity.step.mode" value="default" />
+          <param name="use.custom.script" value="true" />
+        </parameters>
+      </runner>
+    </build-runners>
+    <vcs-settings>
+      <vcs-entry-ref root-id="GitHub_HttpsGithubComHariSekhonKubernetesTemplates" />
+    </vcs-settings>
+    <requirements />
+    <build-triggers />
+    <cleanup />
+  </settings>
+</build-type>
+
