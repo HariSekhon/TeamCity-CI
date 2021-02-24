@@ -22,7 +22,9 @@ TeamCity CI Config
 - `.teamcity.vcs.json` - VCS connection to this repo
 - `kotlin/` - Kotlin exports from UI
 
-TeamCity on Docker - [docker-compose.yml](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/teamcity-docker-compose.yml), [teamcity.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/teamcity.sh) for one shot launch with automated agent authorization and VCS integration via API calls.
+[teamcity.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/teamcity.sh) - one-shot TeamCity cluster on Docker with automated agent authorization and VCS integration via API calls.
+
+TeamCity on Docker - [docker-compose.yml](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/teamcity-docker-compose.yml)
 
 TeamCity on Kubernetes configurations are [here](https://github.com/HariSekhon/Kubernetes-templates).
 
