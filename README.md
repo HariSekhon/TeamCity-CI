@@ -19,9 +19,9 @@ TeamCity CI Config
 
 - `.teamcity/` - XML format live sync'd
 - `exports/` - JSON exports using API scripts in [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo
+- `kotlin/` - Kotlin exports from UI
 - `.teamcity.vcs.oauth.json` - VCS connection to this repo via OAuth
 - `.teamcity.vcs.ssh.json` - VCS connection to this repo via SSH key
-- `kotlin/` - Kotlin exports from UI
 
 [teamcity.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/teamcity.sh) - one-shot TeamCity cluster on Docker with automated agent authorization and VCS integration via API calls.
 
