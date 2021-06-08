@@ -27,11 +27,11 @@ TeamCity CI Config
 
 TeamCity on Docker - [docker-compose.yml](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/teamcity-docker-compose.yml)
 
-TeamCity on Kubernetes configurations are [here](https://github.com/HariSekhon/Kubernetes-templates).
+TeamCity on Kubernetes configurations are [here](https://github.com/HariSekhon/Kubernetes-configs).
 
 ### Automation:
 
-- [Kubernetes templates](https://github.com/HariSekhon/Kubernetes-templates) - extensive Kubernetes configurations, including TeamCity-on-Kubernetes & Jenkins-on-Kubernetes, plus advanced templates for most major kubernetes objects
+- [Kubernetes configs](https://github.com/HariSekhon/Kubernetes-configs) - extensive Kubernetes configurations, including TeamCity-on-Kubernetes & Jenkins-on-Kubernetes, plus advanced templates for most major kubernetes objects
 
 - [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools):
   - [teamcity.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/teamcity.sh) - launches a [TeamCity](https://www.jetbrains.com/teamcity/) cluster in Docker
