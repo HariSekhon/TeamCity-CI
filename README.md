@@ -29,7 +29,7 @@ TeamCity on Docker - [docker-compose.yml](https://github.com/HariSekhon/DevOps-B
 
 TeamCity on Kubernetes configurations are [here](https://github.com/HariSekhon/Kubernetes-configs).
 
-### Automation:
+### Automation
 
 - [Kubernetes configs](https://github.com/HariSekhon/Kubernetes-configs) - extensive Kubernetes configurations, including TeamCity-on-Kubernetes & Jenkins-on-Kubernetes, plus advanced templates for most major kubernetes objects
 
@@ -56,7 +56,7 @@ TeamCity on Kubernetes configurations are [here](https://github.com/HariSekhon/K
 
 All my [major GitHub repos](https://github.com/HariSekhon) contain fully working live configs for most major CI system out there:
 
-##### Local CI:
+##### Local CI
 
 You can boot any of these CI and run the repo's build with a single short one-word command using the scripts above.
 
@@ -65,7 +65,7 @@ You can boot any of these CI and run the repo's build with a single short one-wo
 - [GoCD](https://www.gocd.org/) - `setup/gocd_config_repo.json` in each repo
 - [TeamCity](https://www.jetbrains.com/teamcity/) - `.teamcity.vcs.oauth.json` / `.teamcity.vcs.ssh.json` connection to this repo
 
-##### Hosted CI:
+##### Hosted CI
 
 - [AppVeyor](https://www.appveyor.com/)
 - [AWS CodeBuild](https://aws.amazon.com/codebuild/)
