@@ -13,6 +13,7 @@ TeamCity CI Config
 [![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)]()
 [![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)]()
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/TeamCity-CI?logo=github)](https://github.com/HariSekhon/TeamCity-CI/commits/master)
+[![License](https://img.shields.io/github/license/HariSekhon/TeamCity-CI)](https://github.com/HariSekhon/TeamCity-CI/blob/master/LICENSE)
 
 [TeamCity](https://www.jetbrains.com/teamcity/) CI configurations, synchronized from my automated TeamCity cluster.
 
