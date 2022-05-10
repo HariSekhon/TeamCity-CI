@@ -1,6 +1,6 @@
 {
   "id": "HAProxyConfigs",
-  "name": "https://github.com/HariSekhon/HAProxy-Configs",
+  "name": "https://github.com/HariSekhon/HAProxy-configs",
   "vcsName": "jetbrains.git",
   "href": "/app/rest/vcs-roots/id:HAProxyConfigs",
   "project": {
@@ -40,7 +40,7 @@
       },
       {
         "name": "url",
-        "value": "https://github.com/HariSekhon/HAProxy-Configs"
+        "value": "https://github.com/HariSekhon/HAProxy-configs"
       },
       {
         "name": "useAlternates",

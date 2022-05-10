@@ -35,7 +35,7 @@
         "id": "HAProxyConfigs",
         "vcs-root": {
           "id": "HAProxyConfigs",
-          "name": "https://github.com/HariSekhon/HAProxy-Configs",
+          "name": "https://github.com/HariSekhon/HAProxy-configs",
           "href": "/app/rest/vcs-roots/id:HAProxyConfigs"
         },
         "checkout-rules": ""
