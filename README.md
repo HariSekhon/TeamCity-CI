@@ -11,9 +11,9 @@ TeamCity CI Config
 [![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)]()
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![XML](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/xml.yaml)
 [![JSON](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/json.yaml)
 [![YAML](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/yaml.yaml)
+[![XML](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/xml.yaml)
 [![Validation](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/semgrep-cloud.yaml)
