@@ -1,5 +1,4 @@
-TeamCity CI Config
-==================
+# TeamCity CI Config
 
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/TeamCity-CI?logo=github)](https://github.com/HariSekhon/TeamCity-CI/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/TeamCity-CI?logo=github)](https://github.com/HariSekhon/TeamCity-CI/network)
