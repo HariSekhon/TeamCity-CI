@@ -95,7 +95,6 @@ You can boot any of these CI and run the repo's build with a single short one-wo
 - [Semaphore CI](https://semaphoreci.com/)
 - [Shippable](https://www.shippable.com/)
 - [Travis CI](https://travis-ci.org/)
-- [Wercker](https://app.wercker.com/)
 
 ## Related Repositories
 
