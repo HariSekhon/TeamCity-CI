@@ -47,12 +47,12 @@ TeamCity on Kubernetes configurations are [here](https://github.com/HariSekhon/K
 - [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools):
   - [teamcity.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/teamcity.sh) - launches a [TeamCity](https://www.jetbrains.com/teamcity/) cluster in Docker
     - auto-loads VCS with all the builds
-  - [teamcity_api.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/teamcity_api.sh) - query the [TeamCity API](https://www.jetbrains.com/help/teamcity/rest-api.html), handling authentication and other details
+  - [teamcity_api.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/teamcity/teamcity_api.sh) - query the [TeamCity API](https://www.jetbrains.com/help/teamcity/rest-api.html), handling authentication and other details
   - [jenkins.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/jenkins.sh) - one-touch [Jenkins CI](https://jenkins.io/) instance in Docker
      - auto-loads and builds a pipeline from `Jenkinsfile`
-  - [concourse.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/concourse.sh) - one-touch [Concourse CI](https://concourse-ci.org/) instance in Docker
+  - [concourse.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/cicd/concourse.sh) - one-touch [Concourse CI](https://concourse-ci.org/) instance in Docker
     - auto-loads and builds a pipeline from `.concourse.yml`
-  - [gocd.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/gocd.sh) - one-touch [GoCD CI](https://www.gocd.org/) cluster in Docker
+  - [gocd.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/cicd/gocd.sh) - one-touch [GoCD CI](https://www.gocd.org/) cluster in Docker
     - auto-loads and builds a pipeline from a config repo
 
 
