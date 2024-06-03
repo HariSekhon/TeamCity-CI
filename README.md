@@ -67,7 +67,9 @@ TeamCity on Kubernetes configurations are [here](https://github.com/HariSekhon/K
 
 ### CI Systems
 
-All my [major GitHub repos](https://github.com/HariSekhon) contain fully working live configs for most major CI system out there:
+All my [major GitHub repos](https://github.com/HariSekhon) contain fully working live configs for most major CI system out there.
+
+See [CI/CD](https://github.com/HariSekhon/Knowledge-Base/blob/main/ci-cd.md) notes in my public Knowledge Base for more details and comparisons between different CI/CD systems.
 
 ##### Local CI
 
