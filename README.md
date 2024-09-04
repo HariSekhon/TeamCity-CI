@@ -28,8 +28,7 @@
 
 [TeamCity](https://www.jetbrains.com/teamcity/) CI configurations, synchronized from my automated TeamCity cluster.
 
-
-### TeamCity configuration
+## TeamCity configuration
 
 - `.teamcity/` - XML format live sync'd
 - `exports/` - JSON exports using API scripts in [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo
@@ -43,7 +42,7 @@ TeamCity on Docker - [docker-compose.yml](https://github.com/HariSekhon/DevOps-B
 
 TeamCity on Kubernetes configurations are [here](https://github.com/HariSekhon/Kubernetes-configs).
 
-### Automation
+## Automation
 
 - [Kubernetes configs](https://github.com/HariSekhon/Kubernetes-configs) - extensive Kubernetes configurations, including TeamCity-on-Kubernetes & Jenkins-on-Kubernetes, plus advanced templates for most major kubernetes objects
 
@@ -52,12 +51,11 @@ TeamCity on Kubernetes configurations are [here](https://github.com/HariSekhon/K
     - auto-loads VCS with all the builds
   - [teamcity_api.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/teamcity/teamcity_api.sh) - query the [TeamCity API](https://www.jetbrains.com/help/teamcity/rest-api.html), handling authentication and other details
   - [jenkins.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/jenkins.sh) - one-touch [Jenkins CI](https://jenkins.io/) instance in Docker
-     - auto-loads and builds a pipeline from `Jenkinsfile`
+    - auto-loads and builds a pipeline from `Jenkinsfile`
   - [concourse.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/cicd/concourse.sh) - one-touch [Concourse CI](https://concourse-ci.org/) instance in Docker
     - auto-loads and builds a pipeline from `.concourse.yml`
   - [gocd.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/cicd/gocd.sh) - one-touch [GoCD CI](https://www.gocd.org/) cluster in Docker
     - auto-loads and builds a pipeline from a config repo
-
 
 ### See Also
 
@@ -65,14 +63,13 @@ TeamCity on Kubernetes configurations are [here](https://github.com/HariSekhon/K
 
 - [Advanced Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugins) - 450+ production monitoring checks including for the Jenkins API
 
-
 ### CI Systems
 
 All my [major GitHub repos](https://github.com/HariSekhon) contain fully working live configs for most major CI system out there.
 
 See [CI/CD](https://github.com/HariSekhon/Knowledge-Base/blob/main/ci-cd.md) notes in my public Knowledge Base for more details and comparisons between different CI/CD systems.
 
-##### Local CI
+#### Local CI
 
 You can boot any of these CI and run the repo's build with a single short one-word command using the scripts above.
 
