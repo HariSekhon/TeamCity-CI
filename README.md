@@ -99,9 +99,9 @@ You can boot any of these CI and run the repo's build with a single short one-wo
 - [Shippable](https://www.shippable.com/)
 - [Travis CI](https://travis-ci.org/)
 
-### Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starchart.cc/HariSekhon/TeamCity-CI.svg)](https://starchart.cc/HariSekhon/TeamCity-CI)
+[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/TeamCity-CI&type=Date)](https://star-history.com/#HariSekhon/TeamCity-CI&Date)
 
 ## More Core Repos
 
